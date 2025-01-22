@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../WeChatProjects/miniprogram-featherlink"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}

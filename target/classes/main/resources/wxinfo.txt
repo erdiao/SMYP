@@ -1,0 +1,2 @@
+# API配置
+- baseUrl: http://localhost:8081

@@ -1,0 +1,20 @@
+src/
+├── main/
+│   ├── java/
+│   │   └── com/
+│   │       └── example/
+│   │           ├── Application.java
+│   │           ├── controller/
+│   │           ├── service/
+│   │           ├── dao/
+│   │           ├── entity/
+│   │           ├── dto/
+│   │           └── utils/
+│   └── resources/
+│       ├── application.yml
+│       ├── logback-spring.xml
+│       └── mapper/
+└── test/
+    └── java/
+        └── com/
+            └── example/ 
